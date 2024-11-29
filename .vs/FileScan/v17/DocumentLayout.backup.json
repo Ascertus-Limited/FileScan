@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AS\\Documents\\GitHub\\FileScan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5614B32C-A54D-40CE-B542-FD01C6F283C8}|FileScan\\FileScan.csproj|C:\\Users\\AS\\Documents\\GitHub\\FileScan\\filescan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5614B32C-A54D-40CE-B542-FD01C6F283C8}|FileScan\\FileScan.csproj|solutionrelative:filescan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5614B32C-A54D-40CE-B542-FD01C6F283C8}|FileScan\\FileScan.csproj|c:\\users\\as\\documents\\github\\filescan\\filescan\\locationpicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5614B32C-A54D-40CE-B542-FD01C6F283C8}|FileScan\\FileScan.csproj|solutionrelative:filescan\\locationpicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5614B32C-A54D-40CE-B542-FD01C6F283C8}|FileScan\\FileScan.csproj|c:\\users\\as\\documents\\github\\filescan\\filescan\\locationpicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5614B32C-A54D-40CE-B542-FD01C6F283C8}|FileScan\\FileScan.csproj|solutionrelative:filescan\\locationpicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5614B32C-A54D-40CE-B542-FD01C6F283C8}|FileScan\\FileScan.csproj|C:\\Users\\AS\\Documents\\GitHub\\FileScan\\filescan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5614B32C-A54D-40CE-B542-FD01C6F283C8}|FileScan\\FileScan.csproj|solutionrelative:filescan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5614B32C-A54D-40CE-B542-FD01C6F283C8}|FileScan\\FileScan.csproj|C:\\Users\\AS\\Documents\\GitHub\\FileScan\\filescan\\license.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5614B32C-A54D-40CE-B542-FD01C6F283C8}|FileScan\\FileScan.csproj|solutionrelative:filescan\\license.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5614B32C-A54D-40CE-B542-FD01C6F283C8}|FileScan\\FileScan.csproj|C:\\Users\\AS\\Documents\\GitHub\\FileScan\\filescan\\credentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5614B32C-A54D-40CE-B542-FD01C6F283C8}|FileScan\\FileScan.csproj|solutionrelative:filescan\\credentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5614B32C-A54D-40CE-B542-FD01C6F283C8}|FileScan\\FileScan.csproj|C:\\Users\\AS\\Documents\\GitHub\\FileScan\\filescan\\encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5614B32C-A54D-40CE-B542-FD01C6F283C8}|FileScan\\FileScan.csproj|solutionrelative:filescan\\encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocationPicker.cs",
+              "DocumentMoniker": "C:\\Users\\AS\\Documents\\GitHub\\FileScan\\FileScan\\LocationPicker.cs",
+              "RelativeDocumentMoniker": "FileScan\\LocationPicker.cs",
+              "ToolTip": "C:\\Users\\AS\\Documents\\GitHub\\FileScan\\FileScan\\LocationPicker.cs",
+              "RelativeToolTip": "FileScan\\LocationPicker.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAewBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:32:11.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LocationPicker.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AS\\Documents\\GitHub\\FileScan\\FileScan\\LocationPicker.cs",
+              "RelativeDocumentMoniker": "FileScan\\LocationPicker.cs",
+              "ToolTip": "C:\\Users\\AS\\Documents\\GitHub\\FileScan\\FileScan\\LocationPicker.cs [Design]",
+              "RelativeToolTip": "FileScan\\LocationPicker.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:28:01.369Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "License.cs",
+              "DocumentMoniker": "C:\\Users\\AS\\Documents\\GitHub\\FileScan\\FileScan\\License.cs",
+              "RelativeDocumentMoniker": "FileScan\\License.cs",
+              "ToolTip": "C:\\Users\\AS\\Documents\\GitHub\\FileScan\\FileScan\\License.cs",
+              "RelativeToolTip": "FileScan\\License.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:17:12.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\AS\\Documents\\GitHub\\FileScan\\FileScan\\Form1.cs",
+              "RelativeDocumentMoniker": "FileScan\\Form1.cs",
+              "ToolTip": "C:\\Users\\AS\\Documents\\GitHub\\FileScan\\FileScan\\Form1.cs",
+              "RelativeToolTip": "FileScan\\Form1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwDcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T10:57:04.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Credentials.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AS\\Documents\\GitHub\\FileScan\\FileScan\\Credentials.cs",
+              "RelativeDocumentMoniker": "FileScan\\Credentials.cs",
+              "ToolTip": "C:\\Users\\AS\\Documents\\GitHub\\FileScan\\FileScan\\Credentials.cs [Design]",
+              "RelativeToolTip": "FileScan\\Credentials.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T10:57:01.535Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AS\\Documents\\GitHub\\FileScan\\FileScan\\Form1.cs",
+              "RelativeDocumentMoniker": "FileScan\\Form1.cs",
+              "ToolTip": "C:\\Users\\AS\\Documents\\GitHub\\FileScan\\FileScan\\Form1.cs [Design]",
+              "RelativeToolTip": "FileScan\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:13:19.708Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Encryption.cs",
+              "DocumentMoniker": "C:\\Users\\AS\\Documents\\GitHub\\FileScan\\FileScan\\Encryption.cs",
+              "RelativeDocumentMoniker": "FileScan\\Encryption.cs",
+              "ToolTip": "C:\\Users\\AS\\Documents\\GitHub\\FileScan\\FileScan\\Encryption.cs",
+              "RelativeToolTip": "FileScan\\Encryption.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowBAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:17:36.022Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
