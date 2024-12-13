@@ -36,6 +36,7 @@
             this.credentialsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.lbLocationsToScan = new System.Windows.Forms.ListBox();
             this.btnAdd = new System.Windows.Forms.Button();
+            this.btnScan = new System.Windows.Forms.Button();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -108,12 +109,23 @@
             this.btnAdd.UseVisualStyleBackColor = true;
             this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
             // 
+            // btnScan
+            // 
+            this.btnScan.Location = new System.Drawing.Point(404, 56);
+            this.btnScan.Name = "btnScan";
+            this.btnScan.Size = new System.Drawing.Size(75, 23);
+            this.btnScan.TabIndex = 3;
+            this.btnScan.Text = "Scan";
+            this.btnScan.UseVisualStyleBackColor = true;
+            this.btnScan.Click += new System.EventHandler(this.btnScan_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(894, 539);
+            this.Controls.Add(this.btnScan);
             this.Controls.Add(this.btnAdd);
             this.Controls.Add(this.lbLocationsToScan);
             this.Controls.Add(this.menuStrip1);
@@ -140,6 +152,7 @@
         private System.Windows.Forms.ToolStripMenuItem credentialsToolStripMenuItem;
         private System.Windows.Forms.ListBox lbLocationsToScan;
         private System.Windows.Forms.Button btnAdd;
+        private System.Windows.Forms.Button btnScan;
     }
 }
 

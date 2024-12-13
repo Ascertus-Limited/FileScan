@@ -1,21 +1,38 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.IO;
+using System.ComponentModel;
 
 namespace FileScan
 {
     public partial class Form1 : Form
     {
+        BackgroundWorker bgwDirectories;
+        BackgroundWorker bgwFiles;
+
         public Form1()
         {
             InitializeComponent();
+
+            bgwDirectories = new BackgroundWorker();
+            bgwFiles = new BackgroundWorker();
+
+            bgwFiles.WorkerSupportsCancellation = true;
+            bgwFiles.WorkerReportsProgress = true;
+
+            bgwDirectories.WorkerSupportsCancellation = true;
+            bgwDirectories.WorkerReportsProgress = true;
+
+            bgwDirectories.DoWork += BgwDirectories_DoWork;
+            bgwDirectories.ProgressChanged += BgwDirectories_ProgressChanged;
+            bgwDirectories.RunWorkerCompleted += BgwDirectories_RunWorkerCompleted;
+
+            bgwFiles.DoWork += BgwFiles_DoWork;
+            bgwFiles.ProgressChanged += BgwFiles_ProgressChanged;
+            bgwFiles.RunWorkerCompleted += BgwFiles_RunWorkerCompleted;
         }
+
+        
 
         private void exitToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -60,6 +77,41 @@ namespace FileScan
                 if(!String.IsNullOrEmpty(locationPicker.tbLocation.Text))
                     lbLocationsToScan.Items.Add(locationPicker.tbLocation.Text);
             }
+        }
+
+        private void btnScan_Click(object sender, EventArgs e)
+        {
+            bgwDirectories.RunWorkerAsync(argument: lbLocationsToScan);
+        }
+
+        private void BgwFiles_DoWork(object sender, DoWorkEventArgs e)
+        {
+            throw new NotImplementedException();
+        }
+
+        private void BgwFiles_ProgressChanged(object sender, ProgressChangedEventArgs e)
+        {
+            throw new NotImplementedException();
+        }
+
+        private void BgwFiles_RunWorkerCompleted(object sender, RunWorkerCompletedEventArgs e)
+        {
+            throw new NotImplementedException();
+        }
+
+        private void BgwDirectories_DoWork(object sender, DoWorkEventArgs e)
+        {
+            throw new NotImplementedException();
+        }
+
+        private void BgwDirectories_ProgressChanged(object sender, ProgressChangedEventArgs e)
+        {
+            throw new NotImplementedException();
+        }
+
+        private void BgwDirectories_RunWorkerCompleted(object sender, RunWorkerCompletedEventArgs e)
+        {
+            throw new NotImplementedException();
         }
     }
 }
